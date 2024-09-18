@@ -3,9 +3,9 @@
 <h3 align="center">"Git into Analytics: Exploring Data Insights with GitHub"</h3>
 <img align="right" alt="Coading" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **Python,SQL,Advance Excel,Machine Learning,Stastistics**
+- 💬 Ask me about **Core Java , Advance Java, Hibernate , Spring, Sevlet, JSP, Python,SQL,Advance Excel,Machine Learning,Stastistics**
 
 - 📫 How to reach me **akashwadile2000@gmail.com**
 
